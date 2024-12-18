@@ -94,7 +94,7 @@ header > p {
     max-width: 500px;
     padding-left: 10px;
     padding-right: 10px;
-    margin-bottom: 40px;
+    padding-bottom: 40px;
     margin: auto;
     text-shadow: 2px 2px 0px black;
 
@@ -105,7 +105,8 @@ header > p {
 nav {
     background-color: var(--cor6);
     padding: 10px;
-    box-shadow: 0px 7px 9px rgba(0, 0, 0, 0.664);    
+    box-shadow: 0px 7px 9px rgba(0, 0, 0, 0.664); 
+    margin: 0px;   
 
 }
 
